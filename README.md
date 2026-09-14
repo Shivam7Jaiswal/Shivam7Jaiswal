@@ -99,26 +99,6 @@ Currently building a full stack Java application. More details — including the
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Shivam7Jaiswal&theme=radical&no-frame=true&margin-w=10&column=7" width="90%"/>
-
-</div>
-
----
-
-### 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivam7Jaiswal&theme=redical&bg_color=0D1117&color=A78BFA&line=A78BFA&point=ffffff" width="95%"/>
-
-</div>
-
----
-
 ### 🐍 Contribution Snake
 
 <div align="center">
