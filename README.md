@@ -94,9 +94,10 @@ currently:   Exploring the fundamentals of AI/ML
 ## `05` &nbsp;·&nbsp; GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Shivam7Jaiswal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=00F5FF&icon_color=00F5FF&text_color=94E8E8" width="49%"/>
-<img src="https://github-readme-streak-stats.demolab.com/?user=Shivam7Jaiswal&theme=tokyonight&hide_border=true&background=0F172A&stroke=00F5FF&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" width="49%"/>
+  
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Shivam7Jaiswal&label=Repositories&query=public_repos&color=0891B2&style=for-the-badge&labelColor=0F172A"/>
+<img src="https://img.shields.io/github/followers/Shivam7Jaiswal?label=Followers&color=0891B2&style=for-the-badge&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Shivam7Jaiswal&label=Public%20Gists&query=public_gists&color=0891B2&style=for-the-badge&labelColor=0F172A"/>
 
 </div>
 
