@@ -2,7 +2,7 @@
 
 <img src="banner.svg" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=560&lines=const+dev+%3D+%22Shivam+Jaiswal%22;stack.push(%22Java%22%2C+%22Spring+Boot%22%2C+%22React%22);status%3A+%22Exploring+AI+%2B+Java%22;while(learning)+%7B+build(); %7D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=560&lines=Full+Stack+Java+Developer;Building+with+Java+%2B+Spring+Boot+%2B+React;Exploring+AI+%2B+Java+Engineering;Open+to+Full+Stack+Developer+roles" alt="Typing SVG" />
 
 <br/>
 
