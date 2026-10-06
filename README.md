@@ -139,5 +139,7 @@ currently:   Exploring the fundamentals of AI/ML
 ```
 $ echo "Full Stack Java Developer | Building scalable applications and exploring AI."
 ```
+<img src="footer.svg" width="100%"/>
 
+</div>
 
